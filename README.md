@@ -45,6 +45,6 @@ You could find the app by scanning the QR code:
 ### Session 1, (April 13, 2021)
 ### Session 2, (April 20, 2021)
 ### Session 3, (April 27, 2021)
-### [Session 4, (may 4, 2021)](doc:Session4.md)
+### [Session 4, (May 4, 2021)](doc:Session4)
 
 
