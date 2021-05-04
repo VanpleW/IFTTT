@@ -35,6 +35,6 @@ You could find the app by scanning the QR code:
 ![step 5](../../main/IFTTT/support/app5.PNG)
 
 ## Step 4: Control the SenseStorm over VNC
-1. Enter the IP in the top-up bar
+1. Enter the IP in the top-up bar, typically as ***10.90.2.XXX***
 2. username: pi
 3. password: SenseStorm
