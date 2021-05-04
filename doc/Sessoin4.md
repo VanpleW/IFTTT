@@ -1,4 +1,8 @@
 # Session 4: Computer Vision
+
+## SenseStudy
+The first part of the lecture is on [SenseStudy Platform](https://hk.study.sensetime.com/abc/portal/sign/login)
+
 You could find the sensestudy codes for today [here](https://raw.githubusercontent.com/yzhang0301/codes/master/overlay.py)
 
 ## SenseStorm Project: Facial Keypoints recognition
