@@ -12,7 +12,7 @@ Learn about the set-up to control your SenseStorm [Here](doc/Connection.md)
 - A review will be added soon...
 ### Session 3, (April 27, 2021)
 - Go to the [IFTTT](IFTTT) folder to explore more about IoT!
-### [Session 4, (May 4, 2021)]
+### Session 4, (May 4, 2021)
 - Click [Here](doc/Sessoin4.md) to explore more on today's lecture!
 
 
