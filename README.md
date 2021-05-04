@@ -46,6 +46,6 @@ You could find the app by scanning the QR code:
 ### Session 2, (April 20, 2021)
 ### Session 3, (April 27, 2021)
 ### [Session 4, (May 4, 2021)]
-Click [Here](doc/Session4.md) to explore more on today's lecture!
+Click [Here](doc/Sessoin4.md) to explore more on today's lecture!
 
 
