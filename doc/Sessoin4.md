@@ -27,3 +27,6 @@ python3 ex8_image_overlay_rotation.py
 # for example:
 sudo geany ex8_image_overlay_rotation.py &
 ```
+## SenseStorm Project: Gesture recognition
+
+This project is based on the edge detection and Hull convex detection.
