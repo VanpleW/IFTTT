@@ -11,7 +11,7 @@ _(optional if you have a phone with you)_
 
 You could find the app by scanning the QR code:
 
-![QR code](../main/IFTTT/support/vnc.PNG)
+![QR code](../../main/IFTTT/support/vnc.PNG)
 
 ## Step 3: Pair your SenseStorm with the App
 1. Open the App and select the tab for SenseStorm:
