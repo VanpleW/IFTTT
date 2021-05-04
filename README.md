@@ -1,4 +1,4 @@
-# IFTTT Trial on SenseStorm
+# SKSS SenseStorm Workshop
 
 ## Preparations
 
@@ -12,28 +12,28 @@ _(optional if you have a phone with you)_
 
 You could find the app by scanning the QR code:
 
-![QR code](../main/support/vnc.PNG)
+![QR code](../main/IFTTT/support/vnc.PNG)
 
 ### Step 3: Pair your SenseStorm with the App
 1. Open the App and select the tab for SenseStorm:
 
-![step 1](../main/support/app1.PNG)
+![step 1](../main/IFTTT/support/app1.PNG)
 
 2. Select the Network Configuration tool:
 
-![step 2](../main/support/app2.PNG)
+![step 2](../main/IFTTT/support/app2.PNG)
 
 3. Make sure your phone is connected to a WiFi, and input the WiFi password:
 
-![step 3](../main/support/app3.PNG)
+![step 3](../main/IFTTT/support/app3.PNG)
 
 4. Genarate a QR code and doulbe-click the mode-selection button of the SenseStorm, the camera of sensestorm should be ON, scan the QR code with the camera until the green light of the camera is OFF.
 
-![step 4](../main/support/app4.PNG)
+![step 4](../main/IFTTT/support/app4.PNG)
 
 5. You are ready to go with this IP returned!
 
-![step 5](../main/support/app5.PNG)
+![step 5](../main/IFTTT/support/app5.PNG)
 
 ### Step 4: Control the SenseStorm over VNC
 1. Enter the IP in the top-up bar
@@ -42,8 +42,11 @@ You could find the app by scanning the QR code:
 
 ## Project Trails
 
-### Project 1: Facial Keypoints recognition
-1. Go to the project folder by open up the terminal, type the following to change directory
+### Codes for today
+You could find the sensestudy codes for today [here](https://raw.githubusercontent.com/yzhang0301/codes/master/overlay.py)
+
+### Project 2: Facial Keypoints recognition
+1. Go to the project folder by opening up the terminal and type the following commands to change directory
 ```
 cd Desktop/sensestorm_workshop/4_facial_keypoints
 ```
@@ -59,18 +62,3 @@ python3 ex8_image_overlay_rotation.py
 # for example:
 sudo geany ex8_image_overlay_rotation.py &
 ```
-### Project 2: IFTTT trial 
-You need to git clone this repo on the Desktop of your SenseStorm
-```
-cd Desktop
-
-git clone https://github.com/VanpleW/IFTTT.git
-```
-If you have a github account, please use yours to download it; Otherwise, please ask for help to me.
-
-Then you need to open the code by:
-```
-cd IFTTT
-sudo geany notification.py &
-```
-Follow the instruction inside and explore more about IFTTT on SenseStorm.
