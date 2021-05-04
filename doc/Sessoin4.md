@@ -27,6 +27,20 @@ python3 ex8_image_overlay_rotation.py
 # for example:
 sudo geany ex8_image_overlay_rotation.py &
 ```
-## SenseStorm Project: Gesture recognition
+## SenseStorm Project: Hand Gesture recognition
 
-This project is based on the edge detection and Hull convex detection.
+This project is based on detection of Contours and Convex Hulls.
+
+Try to draw the skeleton of your hand gestures by the codes in SenseStorm Workshop:
+```
+cd Desktop/sensestorm_workshop/2_hand_gesture_recognition
+```
+You could explore the codes inside this folder by;
+```
+sudo geany The_file_you_want.py &
+```
+To execute an exsiting program, you could use:
+```
+python3 The_file_you_want.py
+```
+Try to explore different styles of hand gestures and see if you could find them all.
