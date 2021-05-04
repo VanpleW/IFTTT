@@ -1,7 +1,7 @@
 # SKSS SenseStorm Workshop
 
 ## Preparations
-
+Learn about the set-up to control your SenseStorm [Here](doc/Connection.md)
 ### Step 1: Download the VNC Viewer on your laptop
 You could find the download link over [here](https://www.realvnc.com/en/connect/download/viewer/windows/)
 
