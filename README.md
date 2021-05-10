@@ -13,6 +13,7 @@ Learn about how to control your SenseStorm with your laptop [here](doc/Connectio
 ### Session 3, (April 27, 2021)
 - Go to the [IFTTT](IFTTT) folder to explore more about IoT!
 ### Session 4, (May 4, 2021)
-- Click [here](doc/Sessoin4.md) to explore more on today's lecture!
-
+- Click [here](doc/Session4.md) to explore more on today's lecture!
+### Session 5, (May 10, 2021)
+- Click [here](doc/Session5.md) to explore more on today's lecture!
 
