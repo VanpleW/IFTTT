@@ -45,6 +45,6 @@ First you need to download and install the WinSCP at [Ninite](https://ninite.com
 
 Type your SenseStorm IP as the host IP, and input the SenseStorm username and password to login.
 
-![WinSCP](../../main/doc/winSCP.PNG)
+![WinSCP](winSCP.png)
 
 Then you could drag your downloaded files from your laptop to SenseStorm. Remember your destination path should be TeachableMachine in this SKSS directory.
