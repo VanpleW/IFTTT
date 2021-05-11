@@ -40,7 +40,7 @@ cd SKSS/TeachableMachine
 
 You need to transfer your downloaded files from your laptop to SenseStorm via ***WinSCP***.
 
-### About WinSCP
+### File Transfer Option 1: WinSCP
 First you need to download and install the WinSCP at [Ninite](https://ninite.com)
 
 Type your SenseStorm IP as the host IP, and input the SenseStorm username and password to login.
@@ -48,3 +48,9 @@ Type your SenseStorm IP as the host IP, and input the SenseStorm username and pa
 ![WinSCP](winSCP.png)
 
 Then you could drag your downloaded files from your laptop to SenseStorm. Remember your destination path should be TeachableMachine in this SKSS directory.
+
+### File Transfer Option 2: Cloud Drive
+You could use Google Drive, Dropbox etc to upload files from PC and download them from SenseStorm.
+
+### File Transfer Option 3: USB Flash Dirve
+You could also copy files with your USB flash drive.
