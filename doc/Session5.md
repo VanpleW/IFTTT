@@ -28,15 +28,15 @@ The learning rate may be the most important hyperparameter when configuring your
 After playing around with Teachable Machine, we need to implement the models on SenseStorm.
 
 The python script is already on this repository, but you need to have it installed on SenseStorm:
-'''
+```
 cd Desktop
 git clone https://github.com/VanpleW/SKSS
-'''
+```
 
 Go to the folder: TeachableMachine and use TM2_tflite.py to implement your trained model.
-'''
+```
 cd SKSS/TeachableMachine
-'''
+```
 
 You need to transfer your downloaded files from your laptop to SenseStorm via ***WinSCP***.
 
