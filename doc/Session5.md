@@ -54,3 +54,10 @@ You could use Google Drive, Dropbox etc to upload files from PC and download the
 
 ### File Transfer Option 3: USB Flash Dirve
 You could also copy files with your USB flash drive.
+
+## MNIST experiment on Colab
+After learning the simplest the cloud-based AI training, we are now going to learn something more practical. We will try a MNIST experiment on another Google Cloud Computing Platform: [Colab Notebook](https://colab.research.google.com/notebooks/intro.ipynb#recent=true).
+
+Please follow the instruction of Dr. Zhang and copy the codes [Here](https://raw.githubusercontent.com/yzhang0301/codes/master/mnist.py) into your colab environment.
+
+Then we are going to use the cloud GPU machine to execute the codes.
